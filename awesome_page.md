@@ -1,1 +1,2 @@
-Merge conflict
+I'm making a conflict!
+
